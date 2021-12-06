@@ -1,0 +1,14 @@
+{
+    "forms": {
+      "contact": {
+        "name": "mzbyloaj",
+        "fields": {
+          "email": { "type": "email", "required": true },
+          "message": { "type": "text", "required": true }
+        },
+        "actions": [
+          { "type": "email", "to": "ramollosamuel2@gmail.com" }
+        ]
+      }
+    }
+  }
